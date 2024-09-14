@@ -1,0 +1,4 @@
+mysql==0.0.3
+mysqlclient==2.2.4
+psycopg2==2.9.9
+pygame==2.6.0

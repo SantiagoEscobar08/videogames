@@ -17,4 +17,4 @@ suma = n1+n2
 print(suma)
 print("La suma es: ", suma)
 print(f"la suma es: {suma}")
-print("La suma es: ", n1 + n2)
+print("La suma es: ", n1 - n2)
